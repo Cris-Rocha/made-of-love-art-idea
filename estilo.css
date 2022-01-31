@@ -13,8 +13,12 @@ p   {
     }
 #texto  {
     padding: 20px  20px 20px 20px;
-    
+    width:  95%;
+    margin: auto;
     background-color: whitesmoke;
     border-radius: 20px;
        
      }
+ #foot{
+     text-align: center;
+ }     
