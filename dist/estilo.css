@@ -1,0 +1,22 @@
+body { background-color: rgb(214, 205, 214);
+    font: normal 14pt Calibri;
+
+}
+H1  {
+    background-color:rgb(320, 035, 079);
+    color:white;
+    text-align:center;
+    border-radius: 10px;
+}
+p   {
+    font-family:arial,"cursive"; 
+    }
+
+#text{
+
+
+    padding: 20px  20px  20px 20px;
+       
+     }
+     
+   
